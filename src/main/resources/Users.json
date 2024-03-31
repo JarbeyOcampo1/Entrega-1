@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "modelo":"2007",
+        "marca":"Yamaha Dt 125"
+    },
+    {
+        "id":2,
+        "modelo":"1998",
+        "marca":"Yamaha yt 115"
+    },
+    {
+        "id":3,
+        "modelo":"2023",
+        "marca":"Suzuki Dr 250"
+    },
+    {
+        "id":4,
+        "modelo":"2016",
+        "marca":"Boxer ct 100"
+    },
+    {
+        "id":5,
+        "modelo":"2024",
+        "marca":"Yamaha YZ250"
+    },
+    {
+        "id":6,
+        "modelo":"2024",
+        "marca":"Yamaha SZRR"
+    },
+    {
+        "id":7,
+        "modelo":"2024",
+        "marca":" Yamaha Nmax connected"
+    },
+    {
+        "id":8,
+        "modelo":"2022",
+        "marca":"Yamaha MT09"
+    },
+    {
+        "id":9,
+        "modelo":"2023",
+        "marca":"Kawasaki z1000"
+    },
+    {
+        "id":10,
+        "modelo":"2014",
+        "marca":"Akt NKD125"
+    }
+]
